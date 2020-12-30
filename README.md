@@ -1,2 +1,3 @@
-# detect-sentence-change
-Detect changes in two difference sentences, addition or deletion of words and shifting of words using HTML + jQuery + Bootstrap
+# sentence-consecutive-or-remote-change-detection
+
+This lets you help detect changes in a sentence which are consecutive and remote using HTML + jQuery + Bootstrap
