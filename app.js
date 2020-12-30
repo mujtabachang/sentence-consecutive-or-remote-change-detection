@@ -98,8 +98,6 @@ function consecutiveOrRemote(refSentenceArray, sentenceArray, selWordIndex) {
         myRet += "<span class='label'>--- CONSECUTIVE ----</span>"
     }
 
-    myRet += "<br>" + changed + "<br>"
-
     return myRet
 
 }
